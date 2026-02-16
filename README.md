@@ -1,4 +1,4 @@
-# Bruno's to Running AI Locally
+# Bruno's tutorial to Running AI Locally
 
 ---
 
